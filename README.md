@@ -16,4 +16,5 @@ Business Analyst
 - StarUML
 - Draw.io
 - Figma
+- Balsamiq
 - Github

@@ -1,9 +1,9 @@
-## Online Shopping Management System – Business Analyst
+# Online Shopping Management System – Business Analyst
 
-# Overview
+## Overview
 This project focuses on requirement analysis and system modeling for an Online Shopping Management System.
 
-# My Role
+## My Role
 Business Analyst
 
 ## Responsibilities
@@ -12,5 +12,5 @@ Business Analyst
 - Designed UML diagrams (Use Case, Class, Sequence Diagrams)
 - Validated requirements using wireframes
 
-# Tools
+## Tools
 Figma, Draw.io, WhiteStarUML, GitHub

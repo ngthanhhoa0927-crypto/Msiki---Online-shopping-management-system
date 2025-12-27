@@ -13,7 +13,7 @@ Business Analyst
 - Validated requirements using wireframes
 
 ## Tools
--Figma, 
--Draw.io, 
--WhiteStarUML, 
--GitHub
+- StarUML
+- Draw.io
+- Figma
+- Github

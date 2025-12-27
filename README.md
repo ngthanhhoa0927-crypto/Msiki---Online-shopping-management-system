@@ -1,7 +1,7 @@
 # Online Shopping Management System – Business Analyst
 
 ## Overview
-This project focuses on requirement analysis and system modeling for an Online Shopping Management System.
+This project focuses on requirement analysis and system modeling for an Msiki - Online Shopping Management System.
 
 ## My Role
 Business Analyst
@@ -13,4 +13,7 @@ Business Analyst
 - Validated requirements using wireframes
 
 ## Tools
-Figma, Draw.io, WhiteStarUML, GitHub
+-Figma, 
+-Draw.io, 
+-WhiteStarUML, 
+-GitHub

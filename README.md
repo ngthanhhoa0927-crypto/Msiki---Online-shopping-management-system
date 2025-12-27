@@ -8,7 +8,7 @@ Business Analyst
 
 ## Responsibilities
 - Elicited and analyzed business requirements
-- Created BRD and SRS documents
+- Created BRD, SAD and SRS documents
 - Designed UML diagrams (Use Case, Class, Sequence Diagrams)
 - Validated requirements using wireframes
 
